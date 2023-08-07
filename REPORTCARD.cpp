@@ -277,9 +277,8 @@ void intro() {
 	cout << "\n\n\n\t\t  STUDENT";
 	cout << "\n\n\t\tREPORT CARD";
 	cout << "\n\n\t\t  PROJECT";
-	cout << "\n\n\n\tMADE BY : 1.Cdt.Anguvi sumi ";
-	cout << "\n\t\t  2.Rithik Prakash";
-	cout << "\n\tSCHOOL :SAINIK SCHOOL PUNGLWA NAGALAND";
+	cout << "\n\n\n\tMADE BY : VISHAKHA DIXIT";
+	cout << "\n\t\t SRM INSTITUTE OF SCIENCE AND TECHNOLOGY";
 }
 
 int main() {
